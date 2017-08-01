@@ -14,7 +14,7 @@ class BoostLocal_FunctionConan(ConanFile):
                       "Boost.Scope_Exit/1.64.0@bincrafters/testing", \
                       "Boost.Type_Traits/1.64.0@bincrafters/testing",\
                       "Boost.Typeof/1.64.0@bincrafters/testing",\
-                      "Boost.Type_Utility/1.64.0@bincrafters/testing"
+                      "Boost.Utility/1.64.0@bincrafters/testing"
 
                       #config0 mpl5 preprocessor0 scope_exit6 type_traits3 typeof5 utility5
 
