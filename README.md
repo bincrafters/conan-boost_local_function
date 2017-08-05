@@ -2,7 +2,7 @@
 
 [Conan.io](https://conan.io) package for [Boost.Local_Function](https://github.com/Boostorg/Local_Function) project
 
-The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/conan-public/Boost.Local_Function%3Abincrafters).
+The packages generated with this **conanfile** can be found in [Bintray](https://bintray.com/bincrafters/public-conan/Boost.Local_Function%3Abincrafters).
 
 ## For Users: Use this package
 
