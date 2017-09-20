@@ -8,13 +8,13 @@ class BoostLocal_FunctionConan(ConanFile):
     description = "Please visit http://www.boost.org/doc/libs/1_65_1/libs/libraries.htm"
     license = "www.boost.org/users/license.html"
     lib_short_names = ["local_function"]
-    requires =  "Boost.Config/1.65.1@bincrafters/stable", \
-                      "Boost.Mpl/1.65.1@bincrafters/stable", \
-                      "Boost.Preprocessor/1.65.1@bincrafters/stable", \
-                      "Boost.Scope_Exit/1.65.1@bincrafters/stable", \
-                      "Boost.Type_Traits/1.65.1@bincrafters/stable",\
-                      "Boost.Typeof/1.65.1@bincrafters/stable",\
-                      "Boost.Utility/1.65.1@bincrafters/stable"
+    requires =  "Boost.Config/1.65.1@bincrafters/testing", \
+                      "Boost.Mpl/1.65.1@bincrafters/testing", \
+                      "Boost.Preprocessor/1.65.1@bincrafters/testing", \
+                      "Boost.Scope_Exit/1.65.1@bincrafters/testing", \
+                      "Boost.Type_Traits/1.65.1@bincrafters/testing",\
+                      "Boost.Typeof/1.65.1@bincrafters/testing",\
+                      "Boost.Utility/1.65.1@bincrafters/testing"
 
                       #config0 mpl5 preprocessor0 scope_exit6 type_traits3 typeof5 utility5
 
