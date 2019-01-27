@@ -8,6 +8,7 @@ base = python_requires("boost_base/1.68.0@bincrafters/testing")
 
 class BoostLocal_FunctionConan(base.BoostBaseConan):
     name = "boost_local_function"
+    version = "1.68.0"
     url = "https://github.com/bincrafters/conan-boost_local_function"
     lib_short_names = ["local_function"]
     header_only_libs = ["local_function"]
